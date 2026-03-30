@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Application: Rotwood\n"
 "POT Version: 2.0\n"
